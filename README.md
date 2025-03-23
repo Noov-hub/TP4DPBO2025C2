@@ -77,7 +77,7 @@ Program ini terdiri dari dua kelas utama:
 - Jika user menekan tombol **Delete**, akan muncul **dialog box konfirmasi** dengan pilihan **Yes/No**.  
 - Jika memilih **Yes**, maka data akan dihapus dari tabel dan muncul **dialog box** yang menampilkan pesan sukses.  
 
-## 5️⃣ **Membatalkan Input**
+## 5️ **Membatalkan Input**
 - Jika user menekan tombol **Cancel**, maka seluruh **field dalam form akan dikosongkan kembali**.  
 
 ---
