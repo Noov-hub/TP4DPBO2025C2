@@ -29,7 +29,7 @@ public class Menu extends JFrame {
     private JLabel angkatanLabel;
 
     public Menu() {
-        setTitle("Data Mahasiswa"); // Tambahkan title agar lebih jelas
+        setTitle("Data Mahasiswa"); 
         setSize(480, 560);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -88,7 +88,7 @@ public class Menu extends JFrame {
             }
         });
 
-        setContentPane(mainPanel); // Tambahkan ini agar komponen dalam mainPanel tampil
+        setContentPane(mainPanel); 
     }
 
 
