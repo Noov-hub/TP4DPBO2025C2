@@ -80,4 +80,13 @@ Program ini terdiri dari dua kelas utama:
 ## 5️ **Membatalkan Input**
 - Jika user menekan tombol **Cancel**, maka seluruh **field dalam form akan dikosongkan kembali**.  
 
----
+# Dokumentasi
+![Screenshot 2025-03-23 201830](https://github.com/user-attachments/assets/7cdbb114-17d9-4b7e-b89f-e7098acdd475)
+![Screenshot 2025-03-23 201838](https://github.com/user-attachments/assets/bd5073de-9fa8-4bc2-81a2-82ccb596ad7a)
+![Screenshot 2025-03-23 201858](https://github.com/user-attachments/assets/041be614-b247-4a87-9350-2731b11496fe)
+![Screenshot 2025-03-23 201905](https://github.com/user-attachments/assets/5c0e2811-21c4-4114-ac29-d50edc22d79d)
+![Screenshot 2025-03-23 201923](https://github.com/user-attachments/assets/78847c22-9679-4d48-871c-6c9500dd64fb)
+![Screenshot 2025-03-23 201928](https://github.com/user-attachments/assets/281101f2-7f49-48d0-afa1-cda983a41cbe)
+![Screenshot 2025-03-23 201934](https://github.com/user-attachments/assets/3252c3b8-3a6d-49fe-93d3-4e1c3e9120c4)
+![Screenshot 2025-03-23 201939](https://github.com/user-attachments/assets/b5e4a293-3448-40eb-9d95-5653e6a2a248)
+![Screenshot 2025-03-23 201944](https://github.com/user-attachments/assets/37983e93-b35b-4ce3-88e3-5aeedef55d18)
