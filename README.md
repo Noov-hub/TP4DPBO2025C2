@@ -9,7 +9,7 @@ Program ini terdiri dari dua kelas utama:
 
 ## **1 Mahasiswa**
 
-### 📌 Atribut:
+###  Atribut:
 - `nim`  
 - `nama`  
 - `jenisKelamin`  
@@ -64,16 +64,16 @@ Program ini terdiri dari dua kelas utama:
   - **Angkatan** (ComboBox: "2019", "2020", "2021", "2022", "2023", "2024")  
 - Di samping form, terdapat tombol **Add** dan **Cancel**.  
 
-## 2️⃣ **Menambahkan Data**
+## 2️ **Menambahkan Data**
 - User mengisi form dan menekan tombol **Add**.  
 - Data akan tersimpan ke dalam tabel dan muncul **dialog box** yang menunjukkan bahwa data berhasil ditambahkan.  
 
-## 3️⃣ **Mengupdate Data**
+## 3️ **Mengupdate Data**
 - Jika user mengklik salah satu baris pada tabel, maka **form akan otomatis terisi** dengan data tersebut.  
 - **Tombol "Add" berubah menjadi "Update"**, dan tombol **Delete** akan muncul.  
 - Jika user menekan tombol **Update**, maka data di dalam tabel akan diperbarui, dan **dialog box** akan muncul untuk menampilkan pesan sukses.  
 
-## 4️⃣ **Menghapus Data**
+## 4️ **Menghapus Data**
 - Jika user menekan tombol **Delete**, akan muncul **dialog box konfirmasi** dengan pilihan **Yes/No**.  
 - Jika memilih **Yes**, maka data akan dihapus dari tabel dan muncul **dialog box** yang menampilkan pesan sukses.  
 
